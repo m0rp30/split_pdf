@@ -1,2 +1,0 @@
-* Titolo
-Questo è una prova per vedere se github gestisce i file .org
